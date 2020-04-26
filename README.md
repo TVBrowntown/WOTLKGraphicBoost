@@ -4,5 +4,3 @@ A WOTLK version of the VanillaGraphicsBoost by Istox. Automatically apply maximu
 # Installation
 
 Download and extract into your World of Warcraft/Interface/AddOns folder. Rename the folder to "WOTLKGraphicBoost".
-
-# Note
