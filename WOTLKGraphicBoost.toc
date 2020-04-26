@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: WOTLKGraphicBoost by Bset
+## Version: 1.0
+## Notes: --
+## Author: "Bset"
+
+WOTLKGraphicBoost1.lua
